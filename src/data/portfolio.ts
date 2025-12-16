@@ -17,7 +17,7 @@ export const portfolioData = {
             {
                 label: "LinkedIn",
                 icon: Linkedin,
-                url: "https://www.linkedin.com/in/fuad-haskan-faruk", // Assuming from CV name
+                url: "https://www.linkedin.com/in/fuad-haskan-faruk",
             },
             {
                 label: "Codeforces",
@@ -75,7 +75,7 @@ export const portfolioData = {
         {
             title: "SocialFly",
             description: "A social media platform implementation.",
-            techStack: ["React", "Node.js", "MongoDB"], // Assumed based on typical stack or need to verify if visible in repo
+            techStack: ["React", "Node.js", "MongoDB"],
             link: "https://github.com/Fuad123yuriygie/SocialFly",
             featured: true,
             github: true,
@@ -83,7 +83,7 @@ export const portfolioData = {
         {
             title: "MotionExtraction",
             description: "Motion extraction and analysis system.",
-            techStack: ["Python", "OpenCV"], // Assumed
+            techStack: ["Python", "OpenCV"],
             link: "https://github.com/Fuad123yuriygie/MotionExtraction",
             featured: true,
             github: true,
