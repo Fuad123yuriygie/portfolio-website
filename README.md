@@ -2,9 +2,6 @@
 
 A modern, high-performance personal portfolio website designed with a **Cyber/Glassmorphism** aesthetic. Built to showcase projects, skills, and professional experience with a focus on visual impact and smooth user interactions.
 
-![Portfolio Preview](public/og-image.jpg) 
-*(Note: You can add a screenshot of your site here later)*
-
 ## 🚀 Features
 
 - ** Modern Tech Stack**: Built with [Next.js 15+](https://nextjs.org) (App Router) and TypeScript.
@@ -31,37 +28,6 @@ src/
 ├── lib/              # Utility functions
 └── styles/           # Global styles and tailwind configuration
 ```
-
-## 🚀 Getting Started
-
-1.  **Clone the repository:**
-    ```bash
-    git clone https://github.com/yourusername/portfolio-website.git
-    cd portfolio-website
-    ```
-
-2.  **Install dependencies:**
-    ```bash
-    npm install
-    # or
-    yarn install
-    ```
-
-3.  **Run the development server:**
-    ```bash
-    npm run dev
-    ```
-
-4.  **Open your browser:**
-    Navigate to [http://localhost:3000](http://localhost:3000) to view the site.
-
-## 📦 Deployment
-
-This project is optimized for deployment on **Vercel**.
-
-1.  Push your code to a GitHub repository.
-2.  Import the project into Vercel.
-3.  Vercel will automatically detect the Next.js settings and deploy.
 
 ## 📄 License
 
