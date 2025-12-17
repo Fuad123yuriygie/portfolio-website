@@ -4,7 +4,7 @@ A modern, high-performance personal portfolio website designed with a **Cyber/Gl
 
 ## 🚀 Features
 
-- ** Modern Tech Stack**: Built with [Next.js 15+](https://nextjs.org) (App Router) and TypeScript.
+- **✨ Modern Tech Stack**: Built with [Next.js 15+](https://nextjs.org) (App Router) and TypeScript.
 - **🎨 Glassmorphism Design**: Custom UI components with frosted glass effects, glowing gradients, and grid patterns.
 - **✨ Fluid Animations**: Smooth page transitions and element reveals using [Framer Motion](https://www.framer.com/motion/).
 - **📱 Fully Responsive**: Optimized for all devices, from large desktop screens to mobile phones.
